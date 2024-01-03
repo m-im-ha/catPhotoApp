@@ -1,2 +1,3 @@
 # catPhotoApp
-the is a catPhotoApp that i learn from freecodecamp
+
+this is a catPhotoApp that i learned from freecodecamp.
